@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\innovue-test\innovue-test\obj\Debug\innovue-test.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\innovue-test\innovue-test\obj\Debug\innovue_test.Properties.Resources.resources
+C:\Users\USER\source\repos\innovue-test\innovue-test\obj\Debug\innovue-test.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\innovue-test\innovue-test\obj\Debug\innovue-test.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\innovue-test\innovue-test\bin\Debug\innovue-test.exe.config
+C:\Users\USER\source\repos\innovue-test\innovue-test\bin\Debug\innovue-test.exe
+C:\Users\USER\source\repos\innovue-test\innovue-test\bin\Debug\innovue-test.pdb
+C:\Users\USER\source\repos\innovue-test\innovue-test\obj\Debug\innovue-test.exe
+C:\Users\USER\source\repos\innovue-test\innovue-test\obj\Debug\innovue-test.pdb
+C:\Users\USER\source\repos\innovue-test\innovue-test\obj\Debug\innovue_test.WorkTwo.resources

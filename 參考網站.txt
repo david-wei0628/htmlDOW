@@ -1,0 +1,12 @@
+二:
+	參考網站:
+		https://dotblogs.com.tw/weitingee/2018/05/21/234958
+		https://docs.microsoft.com/zh-tw/dotnet/api/system.net.webclient.downloadfile?redirectedfrom=MSDN&view=netcore-3.1#System_Net_WebClient_DownloadFile_System_String_System_String_
+
+三、四:
+	參考網站:
+		https://blog.xuite.net/jen999999/blog/124905334-C%23+讀取實體路徑的html檔的html語法%28存入DB用%29
+		https://jimmy0222.pixnet.net/blog/post/36958669
+		https://docs.microsoft.com/zh-tw/dotnet/api/system.xml.linq.xdocument.parse?view=netcore-3.1
+		https://dotblogs.com.tw/atowngit/2009/08/23/10202
+		https://docs.microsoft.com/zh-tw/dotnet/csharp/programming-guide/concepts/linq/xdocument-class-overview
